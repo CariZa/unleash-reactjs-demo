@@ -12,7 +12,4 @@ describe("Unleash wrapper", () => {
         let inst = instantiate();
     })
 
-    it("should be able to let you know if a feature is active", () => {
-        isActive("Login");
-    });
 });
